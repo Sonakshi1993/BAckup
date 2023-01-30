@@ -1,0 +1,32 @@
+Diversery 
+
+Dev - https://dev-dashboard.diverseyiot.com/#/login
+gmail - https://mail.google.com/mail/u/0/#inbox/FMfcgzGpGnLbJqHdSmWcDdxnHtPZsQrN
+version1 - https://www9.v1host.com/Diversey/Default.aspx?menu=StoryBoardPage
+Okta - https://diversey.oktapreview.com/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&code_challenge=qaB0y9nOdC1uUd2FE9azlSI-gViDDce1LR07yT96A_Y&code_challenge_method=S256&nonce=2yBMc1Ajf7tuEOZEERXMxtZNecwcf6l1dyJRGBp0JFOP6vD2t8U3GCkfeXVloju9&redirect_uri=https%3A%2F%2Fdiversey.oktapreview.com%2Fenduser%2Fcallback&response_type=code&state=uok9cHh3NBtiJ0RboeyjI3dxGpkTt4ctbySs9PIpWSGKZYZPBk1E9lY8C3whkDAS&scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage
+
+
+Wipro 
+
+home - https://mywipro.wipro.com/Home?status=ok
+service portal - https://wwwprod.wiprocio.wiproltd.myshn.net/sp
+
+Personel 
+Dummy json - https://dummy.restapiexample.com/api/v1/employees
+Dummy json - https://dummyjson.com/products
+
+
+
+glpat-tiPezbBsKRA28nu_vCAB
+
+git branch -> Check branch SK
+  git status -> 
+   git add .
+   git commit -m "usehash change forr routing"
+  git pull origin DM-UI-Dev_Azure
+   git push --set-upstream origin sk
+
+
+/home/pacuser1/Dish_api/intellidish-frontend
+
+json-server --watch db.json
